@@ -1,0 +1,7 @@
+C:\Users\liorb\Desktop\studies\testings\Tar1COPY\Tar01\bin\Debug\CalculatorTest.exe.config
+C:\Users\liorb\Desktop\studies\testings\Tar1COPY\Tar01\bin\Debug\CalculatorTest.exe
+C:\Users\liorb\Desktop\studies\testings\Tar1COPY\Tar01\bin\Debug\CalculatorTest.pdb
+C:\Users\liorb\Desktop\studies\testings\Tar1COPY\Tar01\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\liorb\Desktop\studies\testings\Tar1COPY\Tar01\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\liorb\Desktop\studies\testings\Tar1COPY\Tar01\obj\Debug\CalculatorTest.exe
+C:\Users\liorb\Desktop\studies\testings\Tar1COPY\Tar01\obj\Debug\CalculatorTest.pdb

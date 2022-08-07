@@ -1,0 +1,13 @@
+C:\Users\liorb\source\repos\Tar1\Tar01\bin\Debug\Tar01.exe.config
+C:\Users\liorb\source\repos\Tar1\Tar01\bin\Debug\Tar01.exe
+C:\Users\liorb\source\repos\Tar1\Tar01\bin\Debug\Tar01.pdb
+C:\Users\liorb\source\repos\Tar1\Tar01\obj\Debug\Tar01.csproj.CoreCompileInputs.cache
+C:\Users\liorb\source\repos\Tar1\Tar01\obj\Debug\Tar01.exe
+C:\Users\liorb\source\repos\Tar1\Tar01\obj\Debug\Tar01.pdb
+C:\Users\liorb\source\repos\Tar1\Tar01\obj\Debug\Tar01.csprojAssemblyReference.cache
+C:\Users\liorb\Desktop\studies\testings\Tar1COPY\Tar01\obj\Debug\Tar01.csproj.CoreCompileInputs.cache
+C:\Users\liorb\Desktop\studies\testings\Tar1COPY\Tar01\bin\Debug\Tar01.exe.config
+C:\Users\liorb\Desktop\studies\testings\Tar1COPY\Tar01\bin\Debug\Tar01.exe
+C:\Users\liorb\Desktop\studies\testings\Tar1COPY\Tar01\bin\Debug\Tar01.pdb
+C:\Users\liorb\Desktop\studies\testings\Tar1COPY\Tar01\obj\Debug\Tar01.exe
+C:\Users\liorb\Desktop\studies\testings\Tar1COPY\Tar01\obj\Debug\Tar01.pdb
